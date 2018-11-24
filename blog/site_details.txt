@@ -1,0 +1,58 @@
+
+Project Name	:	Sigosoft Blog
+ID		:	NR	
+Theme		:	Woduru
+Date		:	20/2/2018	
+Uploaded on	:	NR
+Type		:	NR
+Alias name	:	
+Effort(hrs)	:	NR
+Due date	:	20/2/2018	
++============================================+
+Site details:
++============================================+
+
+
+Local Site Details
++===============================+
+
+	Site Url		:	NR
+
+	Database name		:	sigosoft
+	DB Username 		: 	root	
+	DB password 		:		
+
+	Wp Username 		:	admin
+	Wp Password 		:	sigosoft@wod#13	
+
+Live Site Details
++===============================+
+	
+	Site url		:	NR
+	
+	Folder			:	NR
+	
+	wp Login url		:	NR	
+	wp Username		:	NR	
+	wp Password		:	NR
+
+	Hosting server		:	NR
+	Login			:	NR
+	Domain			:	NR
+	Username		: 	NR
+	Password		:	NR
+
+	phpmyadmin dbname	:	
+	phpmyadmin dbusername	:	NR
+	phpmyadmin dbpassword	:	NR
+
+	FTP Domain		:	NR	
+	FTP Username		: 	NR	
+	FTP Password		: 	NR
+	IP address		:	NR
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+
+Project Name	:	ARABIAN
+ID		:	NR	
+Theme		:	Wolkstead	
+Date		:	11/9/2015	
+Uploaded on	:	NR
+Type		:	NR
+Alias name	:	arabian
+Effort(hrs)	:	NR
+Due date	:	16/9/2015	
++============================================+
+Site details:
++============================================+
+
+
+Local Site Details
++===============================+
+
+	Site Url		:	NR
+
+	Database name		:	arabian	
+	DB Username 		: 	root	
+	DB password 		:		
+
+	Wp Username 		:	arabian		
+	Wp Password 		:	a&p_0@0_a&p	
+
+Live Site Details
++===============================+
+	
+	Site url		:	NR
+	
+	Folder			:	NR
+	
+	wp Login url		:	NR	
+	wp Username		:	NR	
+	wp Password		:	NR
+
+	Hosting server		:	NR
+	Login			:	NR
+	Domain			:	NR
+	Username		: 	NR
+	Password		:	NR
+
+	phpmyadmin dbname	:	sparpnrh_arabian
+	phpmyadmin dbusername	:	NR
+	phpmyadmin dbpassword	:	NR
+
+	FTP Domain		:	NR	
+	FTP Username		: 	NR	
+	FTP Password		: 	NR
+	IP address		:	NR
+
+
+
+
+
+

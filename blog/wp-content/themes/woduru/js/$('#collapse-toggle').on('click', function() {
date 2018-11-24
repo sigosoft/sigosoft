@@ -1,0 +1,3 @@
+$('#collapse-toggle').on('click', function() {
+	$('#layout-collapse').toggleClass('toggled');
+})

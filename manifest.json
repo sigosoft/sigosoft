@@ -1,0 +1,17 @@
+{
+	"short_name":"sigosoft",
+	"name":"sigosoft",
+	"description":"website",
+	"icons":[
+	{
+		"src":"images/1.png",
+		"type":"image/png",
+		"sizes":"96x96"
+	}
+	],
+	"start_url":"index.html",
+	"display":"standalone",
+	"background-color":"#fff",
+	"theme-color":"9553ff",
+	"scope":"/"
+}

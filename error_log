@@ -1,0 +1,436 @@
+[03-Jul-2018 02:17:27 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[03-Jul-2018 06:38:15 Etc/GMT] PHP Warning:  file_get_contents(http://...@trueventus.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[03-Jul-2018 06:38:16 Etc/GMT] PHP Warning:  file_get_contents(http://...@trueventus.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[06-Jul-2018 07:47:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/sigoswvq/public_html/career.php on line 114
+[06-Jul-2018 07:47:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/sigoswvq/public_html/career.php on line 114
+[06-Jul-2018 07:47:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/sigoswvq/public_html/career.php on line 114
+[10-Jul-2018 05:00:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/sigoswvq/public_html/career.php on line 351
+[10-Jul-2018 05:00:42 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/sigoswvq/public_html/career.php on line 351
+[10-Jul-2018 05:00:46 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/sigoswvq/public_html/career.php on line 351
+[10-Jul-2018 05:00:53 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/sigoswvq/public_html/career.php on line 351
+[10-Jul-2018 05:45:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ')' in /home/sigoswvq/public_html/career.php on line 80
+[10-Jul-2018 05:45:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ')' in /home/sigoswvq/public_html/career.php on line 80
+[10-Jul-2018 10:32:02 Etc/GMT] PHP Warning:  filesize(): stat failed for APK/sports.apk in /home/sigoswvq/public_html/download_pos.php on line 5
+[10-Jul-2018 10:32:02 Etc/GMT] PHP Warning:  readfile(APK/sports.apk): failed to open stream: No such file or directory in /home/sigoswvq/public_html/download_pos.php on line 8
+[10-Jul-2018 13:58:05 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[10-Jul-2018 13:58:05 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 10:55:25 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 11:17:14 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 11:18:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 11:33:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 11:45:18 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Jul-2018 11:55:11 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[03-Aug-2018 09:29:00 Etc/GMT] PHP Warning:  file_get_contents(http://...@makebusinessontop.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[03-Aug-2018 09:29:01 Etc/GMT] PHP Warning:  file_get_contents(http://...@makebusinessontop.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[04-Aug-2018 04:48:12 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[10-Aug-2018 17:00:21 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[13-Aug-2018 06:07:27 Etc/GMT] PHP Warning:  file_get_contents(http://...@makebusinessontop.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[13-Aug-2018 06:07:27 Etc/GMT] PHP Warning:  file_get_contents(http://...@makebusinessontop.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[17-Aug-2018 17:15:04 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[17-Aug-2018 17:15:07 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[17-Aug-2018 17:15:12 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[17-Aug-2018 17:15:14 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[17-Aug-2018 17:15:18 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Sep-2018 20:01:39 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[07-Sep-2018 20:01:39 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[07-Sep-2018 20:05:56 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[07-Sep-2018 20:05:58 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[07-Sep-2018 20:06:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[07-Sep-2018 20:06:12 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[07-Sep-2018 20:06:18 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[08-Sep-2018 17:30:00 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[08-Sep-2018 17:30:03 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[08-Sep-2018 17:30:05 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[08-Sep-2018 17:30:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[08-Sep-2018 17:30:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[10-Sep-2018 02:51:05 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[16-Sep-2018 19:24:41 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[16-Sep-2018 19:24:41 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[17-Sep-2018 10:03:56 Etc/GMT] PHP Warning:  file_get_contents(http://...@xperiainfotech.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[17-Sep-2018 10:03:57 Etc/GMT] PHP Warning:  file_get_contents(http://...@xperiainfotech.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[18-Sep-2018 09:54:49 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[18-Sep-2018 09:54:49 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[20-Sep-2018 21:59:17 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[26-Sep-2018 05:56:50 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[26-Sep-2018 09:29:13 Etc/GMT] PHP Warning:  file_get_contents(http://...@get-online-visibility.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[26-Sep-2018 09:29:13 Etc/GMT] PHP Warning:  file_get_contents(http://...@get-online-visibility.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[06-Oct-2018 07:43:08 Etc/GMT] PHP Warning:  file_get_contents(http://...@netsoft.in&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[06-Oct-2018 07:43:08 Etc/GMT] PHP Warning:  file_get_contents(http://...@netsoft.in&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[08-Oct-2018 10:41:48 Etc/GMT] PHP Warning:  file_get_contents(http://...@bigpictureresources.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[08-Oct-2018 10:41:48 Etc/GMT] PHP Warning:  file_get_contents(http://...@bigpictureresources.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[18-Oct-2018 20:22:47 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[19-Oct-2018 07:21:30 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[23-Oct-2018 07:00:16 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[24-Oct-2018 18:16:57 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[26-Oct-2018 01:32:06 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[27-Oct-2018 23:33:53 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[28-Oct-2018 16:39:14 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[28-Oct-2018 20:07:09 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[29-Oct-2018 08:26:36 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[29-Oct-2018 08:26:36 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[30-Oct-2018 05:33:41 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[31-Oct-2018 05:34:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[01-Nov-2018 04:58:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[01-Nov-2018 17:26:11 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[02-Nov-2018 05:40:26 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[06-Nov-2018 05:42:27 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[06-Nov-2018 12:38:56 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/sigoswvq/public_html/contact.php on line 14
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 59
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 60
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 85
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: name in /home/sigoswvq/public_html/contact.php on line 93
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: email in /home/sigoswvq/public_html/contact.php on line 97
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/sigoswvq/public_html/contact.php on line 101
+[06-Nov-2018 20:18:06 Etc/GMT] PHP Notice:  Undefined variable: message in /home/sigoswvq/public_html/contact.php on line 105
+[07-Nov-2018 05:38:45 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:43) in /home/sigoswvq/public_html/career.php on line 136
+[07-Nov-2018 06:44:23 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:130) in /home/sigoswvq/public_html/career.php on line 136
+[07-Nov-2018 17:48:53 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:130) in /home/sigoswvq/public_html/career.php on line 136
+[07-Nov-2018 20:56:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[08-Nov-2018 04:55:30 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:130) in /home/sigoswvq/public_html/career.php on line 136
+[08-Nov-2018 16:59:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[09-Nov-2018 11:36:56 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:47) in /home/sigoswvq/public_html/contact.php on line 141
+[10-Nov-2018 06:32:44 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[11-Nov-2018 05:56:00 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[11-Nov-2018 23:22:35 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[12-Nov-2018 02:46:45 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[12-Nov-2018 04:58:43 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[12-Nov-2018 21:44:51 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[13-Nov-2018 15:09:00 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[14-Nov-2018 04:41:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[14-Nov-2018 22:32:59 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[15-Nov-2018 10:52:23 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:130) in /home/sigoswvq/public_html/career.php on line 136
+[15-Nov-2018 11:50:13 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[15-Nov-2018 14:07:36 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[15-Nov-2018 16:38:06 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[16-Nov-2018 13:32:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[17-Nov-2018 00:02:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[17-Nov-2018 09:16:51 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:47) in /home/sigoswvq/public_html/contact.php on line 141
+[17-Nov-2018 13:28:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[17-Nov-2018 18:54:32 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[18-Nov-2018 12:58:47 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[18-Nov-2018 13:46:22 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[18-Nov-2018 23:30:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[19-Nov-2018 08:43:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[19-Nov-2018 12:32:28 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[19-Nov-2018 20:46:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[20-Nov-2018 08:41:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[20-Nov-2018 13:26:49 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[21-Nov-2018 16:37:55 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[22-Nov-2018 21:01:04 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[23-Nov-2018 06:49:27 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
+[23-Nov-2018 08:37:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/career.php:130) in /home/sigoswvq/public_html/career.php on line 136
+[23-Nov-2018 10:16:37 Etc/GMT] PHP Warning:  file_get_contents(http://...@sinelogix.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 43
+[23-Nov-2018 10:16:38 Etc/GMT] PHP Warning:  file_get_contents(http://...@sinelogix.com&amp;priority=11): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sigoswvq/public_html/contact.php on line 45
+[23-Nov-2018 10:16:38 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:43) in /home/sigoswvq/public_html/contact.php on line 141
+[23-Nov-2018 12:43:19 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sigoswvq/public_html/contact.php:15) in /home/sigoswvq/public_html/contact.php on line 141
